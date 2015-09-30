@@ -1,2 +1,2 @@
 # TestGitHubJenks
-Github Tutorial
+Test gitHub is a repository 
